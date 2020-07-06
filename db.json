@@ -1,14 +1,41 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+
+	{
+		"wallpaper_index": "1",
+		"wallpaper_name": "wallpaper1",
+		"wallpaper_site_name": "imgur",
+		"wallpaper_site_url": "https://imgur.com",
+		"wallpaper_url": "D:\screen\Assassin's Creed® IV Black Flag.jpg"
+	},
+
+	{
+		"wallpaper_index": "2",
+		"wallpaper_name": "wallpaper2",
+		"wallpaper_site_name": "imgur",
+		"wallpaper_site_url": "https://imgur.com",
+		"wallpaper_url": "D:\screen\Assassin's Creed® IV Black Flag.jpg"
+	},
+
+	{
+		"wallpaper_index": "3",
+		"wallpaper_name": "wallpaper3",
+		"wallpaper_site_name": "imgur",
+		"wallpaper_site_url": "https://imgur.com",
+		"wallpaper_url": "D:\screen\Assassin's Creed® IV Black Flag.jpg"
+	},
+
+	{
+		"wallpaper_index": "4",
+		"wallpaper_name": "wallpaper4",
+		"wallpaper_site_name": "imgur",
+		"wallpaper_site_url": "https://imgur.com",
+		"wallpaper_url": "D:\screen\Assassin's Creed® IV Black Flag.jpg"
+	},
+
+	{
+		"wallpaper_index": "5",
+		"wallpaper_name": "wallpaper5",
+		"wallpaper_site_name": "imgur",
+		"wallpaper_site_url": "https://imgur.com",
+		"wallpaper_url": "D:\screen\Assassin's Creed® IV Black Flag.jpg"
+	},
+ 
